@@ -1,0 +1,16 @@
+C:\Mac\Home\Documents\1 semester 2024\projetos\GroupManagerApp\GroupManagerApp\bin\Debug\net8.0-windows\GroupManagerApp.exe
+C:\Mac\Home\Documents\1 semester 2024\projetos\GroupManagerApp\GroupManagerApp\bin\Debug\net8.0-windows\GroupManagerApp.deps.json
+C:\Mac\Home\Documents\1 semester 2024\projetos\GroupManagerApp\GroupManagerApp\bin\Debug\net8.0-windows\GroupManagerApp.runtimeconfig.json
+C:\Mac\Home\Documents\1 semester 2024\projetos\GroupManagerApp\GroupManagerApp\bin\Debug\net8.0-windows\GroupManagerApp.dll
+C:\Mac\Home\Documents\1 semester 2024\projetos\GroupManagerApp\GroupManagerApp\bin\Debug\net8.0-windows\GroupManagerApp.pdb
+C:\Mac\Home\Documents\1 semester 2024\projetos\GroupManagerApp\GroupManagerApp\obj\Debug\net8.0-windows\Test1.Solution.Form1.resources
+C:\Mac\Home\Documents\1 semester 2024\projetos\GroupManagerApp\GroupManagerApp\obj\Debug\net8.0-windows\GroupManagerApp.csproj.GenerateResource.cache
+C:\Mac\Home\Documents\1 semester 2024\projetos\GroupManagerApp\GroupManagerApp\obj\Debug\net8.0-windows\GroupManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Documents\1 semester 2024\projetos\GroupManagerApp\GroupManagerApp\obj\Debug\net8.0-windows\GroupManagerApp.AssemblyInfoInputs.cache
+C:\Mac\Home\Documents\1 semester 2024\projetos\GroupManagerApp\GroupManagerApp\obj\Debug\net8.0-windows\GroupManagerApp.AssemblyInfo.cs
+C:\Mac\Home\Documents\1 semester 2024\projetos\GroupManagerApp\GroupManagerApp\obj\Debug\net8.0-windows\GroupManagerApp.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\1 semester 2024\projetos\GroupManagerApp\GroupManagerApp\obj\Debug\net8.0-windows\GroupManagerApp.dll
+C:\Mac\Home\Documents\1 semester 2024\projetos\GroupManagerApp\GroupManagerApp\obj\Debug\net8.0-windows\refint\GroupManagerApp.dll
+C:\Mac\Home\Documents\1 semester 2024\projetos\GroupManagerApp\GroupManagerApp\obj\Debug\net8.0-windows\GroupManagerApp.pdb
+C:\Mac\Home\Documents\1 semester 2024\projetos\GroupManagerApp\GroupManagerApp\obj\Debug\net8.0-windows\GroupManagerApp.genruntimeconfig.cache
+C:\Mac\Home\Documents\1 semester 2024\projetos\GroupManagerApp\GroupManagerApp\obj\Debug\net8.0-windows\ref\GroupManagerApp.dll
